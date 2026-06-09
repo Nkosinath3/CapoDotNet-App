@@ -1,0 +1,15 @@
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/bin/Debug/net10.0/MyFirstApplicationDotNet
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/bin/Debug/net10.0/MyFirstApplicationDotNet.deps.json
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/bin/Debug/net10.0/MyFirstApplicationDotNet.runtimeconfig.json
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/bin/Debug/net10.0/MyFirstApplicationDotNet.dll
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/bin/Debug/net10.0/MyFirstApplicationDotNet.pdb
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.AssemblyInfoInputs.cache
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.AssemblyInfo.cs
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.csproj.CoreCompileInputs.cache
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.sourcelink.json
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.dll
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/refint/MyFirstApplicationDotNet.dll
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.pdb
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/MyFirstApplicationDotNet.genruntimeconfig.cache
+/workspaces/CapoDotNet-App/MyFirstApplicationDotNet/obj/Debug/net10.0/ref/MyFirstApplicationDotNet.dll
