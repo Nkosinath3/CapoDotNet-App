@@ -1,0 +1,38 @@
+﻿@page
+@model IndexModel
+
+<h3>My To-Do List</h3>
+
+<form method="post">
+    <input type="text" asp-for="NewTask" placeholder="Enter a task" />
+    <button type="submit">Add</button>
+</form>
+
+<br />
+
+<ul>
+@for (int i = 0; i < IndexModel.Tasks.Count; i++)
+{
+    <li>
+        <form method="post" asp-page-handler="Toggle" style="display:inline;">
+            <input type="hidden" name="index" value="@i" />
+            <input type="checkbox" onchange="this.form.submit()" 
+                   @(IndexModel.Tasks[i].IsCompleted ? "checked" : "") />
+        </form>
+
+        <span style="text-decoration:@(IndexModel.Tasks[i].IsCompleted ? "line-through" : "none")">
+            @IndexModel.Tasks[i].Name
+        </span>
+
+        <form method="post" asp-page-handler="Delete" style="display:inline;">
+            <input type="hidden" name="index" value="@i" />
+            <button type="submit">Delete</button>
+        </form>
+    </li>
+}
+</ul>
+
+
+
+
+
